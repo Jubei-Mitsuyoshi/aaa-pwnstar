@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PwnSTAR
+Encoding=UTF-8
+Exec=gnome-terminal -t "PwnStar" -e /usr/bin/PwnSTAR_0.9 2>/dev/null
+Icon=kali-menu.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-01-wireless-tools;
+X-Kali-Package=PwnSTAR
+Name[en_GB]=pwnstar.desktop

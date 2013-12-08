@@ -1,0 +1,9 @@
+pwnstar for Debian
+---------------------------
+
+this package has no source thus totally violating debian policy
+furtheremore contains malicious and viral code
+but it is requested so i have packaged it, it should NEVER go anywhere near
+a normal debian repo
+
+ -- Jubei Mitsuyoshi <Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>>  Thu, 21 Nov 2013 21:51:37 +0100

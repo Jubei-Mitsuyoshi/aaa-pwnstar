@@ -1,0 +1,27 @@
+Source: pwnstar
+Section: net
+Priority: optional
+Maintainer: Jubei Mitsuyoshi <jubei.house.of.five.masters@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.4
+Homepage: http://code.google.com/p/pwn-star/
+
+
+Package: pwnstar
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, isc-dhcp-server, incron, aircrack-ng, sslstrip, eterm, apache2, iptables, ifupdown, net-tools, ethtool
+Description: a all in one Phishing Tools
+ script includes
+ Honeypot
+ Grab WPA handshake
+ Sniffing
+ Simple web server with dnsspoof
+ Karmetasploit
+ Browser_autopwn
+ WARNING!!!!!!!!!!!!!!!!!!!!!!!
+ THIS PACKAGE CONTAINS BINARIES
+ WITHOUT SOURCES AND CONTAINING
+ VERY DANGEROUS AND MALICIOUS
+ CODE
+ USE AT OWN RISK !!!!!!!!!!!!!
+ 
